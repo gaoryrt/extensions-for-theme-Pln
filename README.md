@@ -14,7 +14,7 @@
 # Customize
 ## CV.html
 以 129 - 140 行为例，该段代码在浏览器中展示如下：  
-![1.png](/screenShots/1.png)  
+![1.png](/img/1.png)  
 `class="line blueback"` 蓝底黑字 路径
 `class="Arr blueRightArr"` 黑底蓝色箭头
 `class="line blackback"` 黑底绿字 git分支
