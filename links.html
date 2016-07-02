@@ -1,0 +1,60 @@
+title: "友链"
+---
+<style>
+.meta {
+    display: none;
+}
+.page {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.links-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.link {
+    border: 3px solid #323232;
+    font-size: 1.1em;
+    padding: 1em 0;
+    margin: 1em;
+    background-color: transparent;
+    text-align: center;
+    transition: transform .1s;
+}
+.link:hover {
+    transform: scale(1.2, 1.2);
+    background-color: #323232;
+}
+.link a {
+    color: #323232;
+    letter-spacing: .4em;
+    font-weight: 900;
+    padding: 1.35em 3em 1.35em 3.4em;
+}
+.link a:hover {
+    text-decoration: none;
+    font-weight: 300;
+    color: white;
+}
+@media screen and (max-width:440px){
+        .links-container {
+            justify-content: space-around;
+        }
+    }
+</style>
+<h4><i>至于友链，我已经想到了一种绝妙的展现方式，可惜这里空间太小，我写不下</i></h4>
+<div class="links-container">
+    <div class="link">
+        <a href="https://www.logcg.com" title="落格博客">落格博客</a>
+    </div>
+    <div class="link">
+        <a href="http://blog.daraw.cn" title="前端打杂工">DaraW</a>
+    </div>
+    <div class="link">
+        <a href="https://egoistian.com" title="EGOIST">EGOIST</a>
+    </div>
+</div>
+
+
