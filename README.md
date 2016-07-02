@@ -15,15 +15,15 @@
 ## CV.html
 以 129 - 140 行为例，该段代码在浏览器中展示如下：  
 ![1.png](/img/1.png)  
-`class="line blueback"` 蓝底黑字 路径
-`class="Arr blueRightArr"` 黑底蓝色箭头
-`class="line blackback"` 黑底绿字 git分支
-`class="line blackback1"` 黑底蓝字 git状态
-`class="line blackback2"` 黑底黄字 git状态
-`class="Arr blackRightArr"` 透明底黑色箭头 
-`class="line opeText"` 透明底绿字 命令
-`class="line plainText"` 透明底白字 命令行的白字
-`class="line plainOut"` 透明底白字 输出
+`class="line blueback"` 蓝底黑字 路径  
+`class="Arr blueRightArr"` 黑底蓝色箭头  
+`class="line blackback"` 黑底绿字 git分支  
+`class="line blackback1"` 黑底蓝字 git状态  
+`class="line blackback2"` 黑底黄字 git状态  
+`class="Arr blackRightArr"` 透明底黑色箭头   
+`class="line opeText"` 透明底绿字 命令  
+`class="line plainText"` 透明底白字 命令行的白字  
+`class="line plainOut"` 透明底白字 输出  
 
 通过以上class自定义页面的效果
 ## page.html
