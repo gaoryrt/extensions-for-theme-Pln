@@ -1,3 +1,4 @@
+# *非特殊情况不再更新*
 # extensions for theme Pln
 ***
 本项目的目的在于分享[个人博客](http://gaoryrt.com/)中的「[关于我](http://gaoryrt.com/CV/)」和「[友链](http://gaoryrt.com/links.html)」页面。
